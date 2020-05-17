@@ -9,10 +9,10 @@
 /* Begin PBXBuildFile section */
 		31A96B1A246DB6A9000A9CA8 /* AppDelegate.swift in Sources */ = {isa = PBXBuildFile; fileRef = 31A96B19246DB6A9000A9CA8 /* AppDelegate.swift */; };
 		31A96B1C246DB6A9000A9CA8 /* SceneDelegate.swift in Sources */ = {isa = PBXBuildFile; fileRef = 31A96B1B246DB6A9000A9CA8 /* SceneDelegate.swift */; };
-		31A96B1E246DB6A9000A9CA8 /* ViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = 31A96B1D246DB6A9000A9CA8 /* ViewController.swift */; };
 		31A96B21246DB6A9000A9CA8 /* Main.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 31A96B1F246DB6A9000A9CA8 /* Main.storyboard */; };
 		31A96B23246DB6AB000A9CA8 /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = 31A96B22246DB6AB000A9CA8 /* Assets.xcassets */; };
 		31A96B26246DB6AB000A9CA8 /* LaunchScreen.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 31A96B24246DB6AB000A9CA8 /* LaunchScreen.storyboard */; };
+		31A96B2D24718032000A9CA8 /* ViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = 31A96B1D246DB6A9000A9CA8 /* ViewController.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
@@ -138,7 +138,7 @@
 			isa = PBXSourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
-				31A96B1E246DB6A9000A9CA8 /* ViewController.swift in Sources */,
+				31A96B2D24718032000A9CA8 /* ViewController.swift in Sources */,
 				31A96B1A246DB6A9000A9CA8 /* AppDelegate.swift in Sources */,
 				31A96B1C246DB6A9000A9CA8 /* SceneDelegate.swift in Sources */,
 			);
@@ -285,6 +285,7 @@
 			buildSettings = {
 				ASSETCATALOG_COMPILER_APPICON_NAME = AppIcon;
 				CODE_SIGN_STYLE = Automatic;
+				DEVELOPMENT_TEAM = 6XKHDFKYXG;
 				INFOPLIST_FILE = WarCardGame/Info.plist;
 				LD_RUNPATH_SEARCH_PATHS = (
 					"$(inherited)",
@@ -302,6 +303,7 @@
 			buildSettings = {
 				ASSETCATALOG_COMPILER_APPICON_NAME = AppIcon;
 				CODE_SIGN_STYLE = Automatic;
+				DEVELOPMENT_TEAM = 6XKHDFKYXG;
 				INFOPLIST_FILE = WarCardGame/Info.plist;
 				LD_RUNPATH_SEARCH_PATHS = (
 					"$(inherited)",
